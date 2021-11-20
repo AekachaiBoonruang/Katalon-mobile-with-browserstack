@@ -6,7 +6,7 @@
    <UUID>430f2459-fb1b-43bf-894c-b25ffdedbff5</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/aek/Katalon Studio/Exmaple-Test-Remote/shopping-cart-tests.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\USER\Desktop\Katalon-mobile-with-browserstack\shopping-cart-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
